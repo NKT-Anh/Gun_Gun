@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1645347130450382997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3001875847863818959}
+  m_Layer: 0
+  m_Name: ShottingPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3001875847863818959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1645347130450382997}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.548, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7720050777964139481}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7178431576008063011
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219482442546127182, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219482442546127182, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_Name
+      value: Gun
+      objectReference: {fileID: 0}
+    - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5bb757f68fd74324ea3fc7920eb0ca02, type: 3}
+    - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1767221745
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3001875847863818959}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7619700821970151921}
+  m_SourcePrefab: {fileID: 100100000, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+--- !u!4 &7720050777964139481 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+  m_PrefabInstance: {fileID: 7178431576008063011}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8867259540162599304 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+  m_PrefabInstance: {fileID: 7178431576008063011}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7619700821970151921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8867259540162599304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf3760d7feb18d840b94c285137c6a7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Stats: {fileID: 11400000, guid: a4f126c0bfc5577468ab0e56c3960437, type: 2}
+  m_shotingPoint: {fileID: 3001875847863818959}
+  m_bulletPrefabs: {fileID: 8867259540162599304, guid: cb4f215fee7a9454c967b6d90ab67931, type: 3}
+  m_muzzFlatsPrefab: {fileID: 8867259540162599304, guid: 515f847314315864c9140f9fe157c04d, type: 3}
+  OnShot:
+    m_PersistentCalls:
+      m_Calls: []
+  OnReload:
+    m_PersistentCalls:
+      m_Calls: []
+  OnReloadDone:
+    m_PersistentCalls:
+      m_Calls: []
