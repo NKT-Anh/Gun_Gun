@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "F:\\Unity\\project\\Gun Gun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|f:\\unity\\project\\gun gun\\assets\\gungun\\tds\\scritps\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\utils\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\utils\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|f:\\unity\\project\\gun gun\\assets\\gungun\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\consts\\animationconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\consts\\animationconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\consts\\tagconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\consts\\tagconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\chartactor\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\chartactor\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\projecttitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,24 +15,32 @@
       "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\chartactor\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\chartactor\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|f:\\unity\\project\\gun gun\\assets\\gungun\\tds\\scritps\\chartactor\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\chartactor\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\actorstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\actorstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\utils\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\utils\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\weaponstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\weaponstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\collectable\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\collectable\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\consts\\prefconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\consts\\prefconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5D5F76C-50E3-9392-B497-D21B252CEC05}|Assembly-CSharp-Editor.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\editor\\atributedrawer\\layerlistdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5F76C-50E3-9392-B497-D21B252CEC05}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\editor\\atributedrawer\\layerlistdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\collectable\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\collectable\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\consts\\animationconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\consts\\animationconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\consts\\prefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,6 +49,106 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\utils\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\utils\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\utils\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\utils\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\consts\\prefconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\consts\\prefconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\consts\\tagconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\consts\\tagconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\ui\\eoandialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\ui\\eoandialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\ui\\gunstatdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\ui\\gunstatdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\weaponstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\weaponstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\ui\\gameoverdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\ui\\gameoverdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\ui\\gunstatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\ui\\gunstatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\vfx\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\vfx\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\vfx\\enemyvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\vfx\\enemyvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\utils\\imagefilled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\utils\\imagefilled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\vfx\\actorvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\vfx\\actorvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\vfx\\weaponvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\vfx\\weaponvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\ui\\guimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\ui\\guimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\collectable\\item_coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\collectable\\item_coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\collectable\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\collectable\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\collectable\\itemlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\collectable\\itemlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\ui\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\ui\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\collectable\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\collectable\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\ui\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\ui\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\actorstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\actorstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|F:\\Unity\\project\\Gun Gun\\assets\\gungun\\tds\\scritps\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318850-8557-8078-287A-51139219346D}|Assembly-CSharp.csproj|solutionrelative:assets\\gungun\\tds\\scritps\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,235 +158,460 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Player.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Player.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Player.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAArwJcAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Player.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Player.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Player.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAIwJ8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:28:08.817Z",
+              "WhenOpened": "2024-10-14T12:50:41.982Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Actor.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Actor.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Actor.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Actor.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Actor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.27Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:18:42.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PlayerStats.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\PlayerStats.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\PlayerStats.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\PlayerStats.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\PlayerStats.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwCIAAAAbAAAAAAAAAA==",
+              "Title": "Actor.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Actor.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Actor.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Actor.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Actor.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwF4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T11:34:32.862Z",
+              "WhenOpened": "2024-10-14T12:50:38.903Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Enemy.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Enemy.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Enemy.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwDIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\GameManager.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAkwJwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T11:24:56.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T08:18:42.67Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnemyVisual.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\EnemyVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\VFX\\EnemyVisual.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\EnemyVisual.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\VFX\\EnemyVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:00:42.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerVisual.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\PlayerVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\VFX\\PlayerVisual.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\PlayerVisual.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\VFX\\PlayerVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:31:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ActorVisual.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\ActorVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\VFX\\ActorVisual.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\ActorVisual.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\VFX\\ActorVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:26:48.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EoAnDialog.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\EoAnDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\UI\\EoAnDialog.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\EoAnDialog.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\UI\\EoAnDialog.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:11:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GunStatDialog.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatDialog.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatDialog.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatDialog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:10:00.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImageFilled.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\ImageFilled.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Utils\\ImageFilled.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\ImageFilled.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Utils\\ImageFilled.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:56:27.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeaponVisual.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\WeaponVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\VFX\\WeaponVisual.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\VFX\\WeaponVisual.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\VFX\\WeaponVisual.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:51:23.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AudioController.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\AudioController.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\UI\\AudioController.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\AudioController.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\UI\\AudioController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:22:25.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GunStatUI.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatUI.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatUI.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatUI.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\UI\\GunStatUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:10:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeaponStats.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwEcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:59:19.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameOverDialog.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GameOverDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\UI\\GameOverDialog.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GameOverDialog.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\UI\\GameOverDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:01:24.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ActorStats.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:59:19.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:59:19.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Dialog.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\Dialog.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\UI\\Dialog.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\Dialog.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\UI\\Dialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:37:20.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GUIManager.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\UI\\GUIManager.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\UI\\GUIManager.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\UI\\GUIManager.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwFIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:15:01.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Item_coin.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item_coin.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item_coin.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item_coin.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item_coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:22:49.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:59:19.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemLife.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemLife.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemLife.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemLife.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemLife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:22:47.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Level.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\Level.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\Level.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:46:43.876Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Enemy.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Enemy.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Chartactor\\Enemy.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:50:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Item.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\Item.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwCsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:12:57.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemManager.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemManager.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\ItemManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:33:12.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LayerListDrawer.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Editor\\AtributeDrawer\\LayerListDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Editor\\AtributeDrawer\\LayerListDrawer.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Editor\\AtributeDrawer\\LayerListDrawer.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Editor\\AtributeDrawer\\LayerListDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:33:04.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LootItem.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\LootItem.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\LootItem.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Collectable\\LootItem.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Collectable\\LootItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:29:31.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Utils\\Singleton.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\Singleton.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Utils\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:28:56.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Map.cs",
+              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Map.cs",
+              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Map.cs",
+              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Map.cs",
+              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:26:05.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CineController.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\CineController.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Utils\\CineController.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\CineController.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Utils\\CineController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCcAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T15:54:16.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "AutoDestroy.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\AutoDestroy.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\AutoDestroy.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\AutoDestroy.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\AutoDestroy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:54:02.749Z"
+              "WhenOpened": "2024-09-21T15:54:02.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ProjectTitle.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\ProjectTitle.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\ProjectTitle.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\ProjectTitle.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\ProjectTitle.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADgvysAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T14:56:28.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Weapon.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Weapon.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Weapon.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Weapon.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAuwEgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "Helper.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\Helper.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Utils\\Helper.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Utils\\Helper.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Utils\\Helper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T14:59:19.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WeaponStats.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\WeaponStats.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ActorStats.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\ActorStats.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyStats.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\EnemyStats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Stats.cs",
-              "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
-              "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
-              "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
-              "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Stats\\Stats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "Prefs.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\Prefs.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Consts\\Prefs.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\Prefs.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Consts\\Prefs.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowFgAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T14:59:19.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AnimationConsts.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\AnimationConsts.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Consts\\AnimationConsts.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\AnimationConsts.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Consts\\AnimationConsts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T14:59:19.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "PrefConsts.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\PrefConsts.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Consts\\PrefConsts.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\PrefConsts.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Consts\\PrefConsts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T14:59:19.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "TagConsts.cs",
               "DocumentMoniker": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\TagConsts.cs",
               "RelativeDocumentMoniker": "Assets\\GunGun\\TDS\\Scritps\\Consts\\TagConsts.cs",
               "ToolTip": "F:\\Unity\\project\\Gun Gun\\Assets\\GunGun\\TDS\\Scritps\\Consts\\TagConsts.cs",
               "RelativeToolTip": "Assets\\GunGun\\TDS\\Scritps\\Consts\\TagConsts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:59:19.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T14:59:19.653Z"
             }
           ]
         }

@@ -8,6 +8,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -64,6 +80,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_TagString
+      value: Collectable
+      objectReference: {fileID: 0}
     - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -90,6 +110,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: -4536114001885487808}
+    - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -3608198507372500254}
     - targetCorrespondingSourceObject: {fileID: 8142944932889791031, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1824894534489145152}
@@ -187,3 +210,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.004760951, y: 0.021374345}
   m_Size: {x: 0.2524305, y: 0.2905181}
   m_Direction: 0
+--- !u!114 &-3608198507372500254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5754735079894601237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 701ea62a9ba17634f918381a1e30f346, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_minBonus: 3
+  m_maxBonus: 8
+  m_lineTime: 10
+  m_spawnForce: 80

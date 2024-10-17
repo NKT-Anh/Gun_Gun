@@ -60,33 +60,120 @@
     <Analyzer Include="F:\Unity\dowload\2022.3.48f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Inguz Media Studio\Free 2D Impact FX\Script\SelfDestruct.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\AutoDestroy.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\UI\GunStatUI.cs" />
+    <Compile Include="Assets\Inguz Media Studio\Free 2D Impact FX\Script\AnimationHelper.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\ItemManager.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Consts\TagConsts.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Utils\ImageFilled.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\ItemLife.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\Item_coin.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Stats\WeaponStats.cs" />
-    <Compile Include="Assets\GunGun\TDS\Scritps\Actor.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\VFX\ActorVisual.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Stats\ActorStats.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Utils\FlashVfx.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\ProjectTitle.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Stats\Stats.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Chartactor\Player.cs" />
+    <Compile Include="Assets\Inguz Media Studio\Free 2D Impact FX\Demo Scene\DemoManager.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\LevelItem.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\VFX\EnemyVisual.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Utils\CineController.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\UI\GunStatDialog.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Consts\Prefs.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\UI\GUIManager.cs" />
+    <Compile Include="Assets\Inguz Media Studio\Free 2D Impact FX\Demo Scene\ButtonAnimation.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\VFX\WeaponVisual.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\Level.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\UI\EoAnDialog.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Attributes\LayerListAttribute.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Weapon.cs" />
-    <Compile Include="Assets\GunGun\TDS\Scritps\Enemy.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\UI\GameOverDialog.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\UI\AudioController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Utils\Helper.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Chartactor\Enemy.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Consts\PrefConsts.cs" />
-    <Compile Include="Assets\GunGun\TDS\Scritps\Player.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Utils\Singleton.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Consts\AnimationConsts.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Chartactor\Actor.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\ItemHeath.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Stats\EnemyStats.cs" />
-    <Compile Include="Assets\GunGun\TDS\Scritps\LootItem.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\Item.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Map.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\Collectable\LootItem.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\UI\Dialog.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\GameManager.cs" />
+    <Compile Include="Assets\GunGun\TDS\Scritps\VFX\PlayerVisual.cs" />
     <Compile Include="Assets\GunGun\TDS\Scritps\Stats\PlayerStats.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Scam\Vfx\Shaders\CFXR_SETTINGS.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+    <None Include="Assets\Scam\Vfx\Shaders\CFXR.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Dragon Warrior Files\Read Me.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Scam\Vfx\CFXR Prefabs\Texts\_Make your own text effect.txt" />
+    <None Include="Assets\Scam\Vfx\Shaders\CFXR_PASSES.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\GunGun\TDS\Art\Vfxs\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Inguz Media Studio\Free 2D Impact FX\Demo Scene\Righteous-Regular OFLicence.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\Scam\Vfx\Shaders\CFXR_URP.cginc" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1099,6 +1186,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="CFXR.WelcomeScreen.csproj">
+      <Project>{D00C085F-CB22-D83C-C3D0-97E1DC496005}</Project>
+      <Name>CFXR.WelcomeScreen</Name>
+    </ProjectReference>
+    <ProjectReference Include="KinoBloom.Runtime.csproj">
+      <Project>{4F60484E-BEB4-FA11-E572-936634ED8FA7}</Project>
+      <Name>KinoBloom.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRRuntime.csproj">
+      <Project>{54BA2649-0780-9495-230E-64588202F1AD}</Project>
+      <Name>CFXRRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
+      <Project>{69386C69-3123-2C23-D05D-26C374B9FB6C}</Project>
+      <Name>ToonyColorsPro.Demo.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXREditor.csproj">
+      <Project>{01748491-4537-47B3-92AD-069E420C633A}</Project>
+      <Name>CFXREditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRDemo.csproj">
+      <Project>{2738997B-4E26-C56B-0B15-FE3838966244}</Project>
+      <Name>CFXRDemo</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -13,16 +13,16 @@ MonoBehaviour:
   m_Name: Player Stats
   m_EditorClassIdentifier: 
   playerName: 
-  hp: 25
+  hp: 3405
   moveSpeed: 700
   damage: 1
   knockBackForce: 100
   knockBackTime: 0.5
   invincibleTime: 0.3
-  level: 1
+  level: 53
   maxLevel: 100
-  xp: 0
-  leverUpXP: 25
+  xp: 16907.09
+  leverUpXP: 16925
   xpUp: 50
   hpUp: 10
   damageUp: 1

@@ -10,11 +10,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -6.54
       objectReference: {fileID: 0}
     - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -3.1
       objectReference: {fileID: 0}
     - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_LocalPosition.z
@@ -86,6 +86,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7684000104311268543}
+    - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8379329474593853710}
+    - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 467486263662567744}
     - targetCorrespondingSourceObject: {fileID: 8142944932889791031, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3629164428636155346}
@@ -193,3 +199,56 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5096219, y: 0.6286458}
   m_EdgeRadius: 0
+--- !u!114 &8379329474593853710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5669971847285514106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce8c44655fb12624882610017455df99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stastData: {fileID: 11400000, guid: 34018190d23382e44be467a8442d1adc, type: 2}
+  m_inviciablePlayer: 6
+  m_normalPlayer: 8
+  weapon: {fileID: 0}
+  OnInit:
+    m_PersistentCalls:
+      m_Calls: []
+  OnTakeDamage:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDead:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 467486263662567744}
+        m_TargetAssemblyTypeName: EnemyVisual, Assembly-CSharp
+        m_MethodName: OnDead
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  m_attackRange: 1
+  m_attackCooldown: 1
+  m_moveSpeed: 3
+  lootTable: []
+--- !u!114 &467486263662567744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5669971847285514106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5936f2046aea6ab4a84264438e69960a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

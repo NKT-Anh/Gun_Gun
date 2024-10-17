@@ -53,4 +53,14 @@ public class PlayerStats : ActorStats
         }
     }
 
+    public void Reset()
+    {
+        level = 1;
+        xp = 0;
+        leverUpXP = 100;
+        hp = 25;
+        damage = 1;
+        Save();
+    }
+
 }

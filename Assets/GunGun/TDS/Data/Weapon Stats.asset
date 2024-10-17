@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be218e79da59d6a49831d87408d6301d, type: 3}
   m_Name: Weapon Stats
   m_EditorClassIdentifier: 
-  WeaponName: 
+  WeaponName: Gun
   bullets: 10
   bulletSpeed: 0
   bulletDamage: 10

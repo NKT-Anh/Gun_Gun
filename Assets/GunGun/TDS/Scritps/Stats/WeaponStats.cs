@@ -54,11 +54,11 @@ public class WeaponStats : Stats
     {
         if(Prefs.coins >= upgradePrice && !IsMaxLevel())
         {
-            Prefs.coins = -upgradePrice;
+            Prefs.coins -= upgradePrice;
             level++;
             bullets += bulletsUP * level;
 
-            firerate += firerateUp * Helper.upGrade(level);
+            firerate -= firerateUp * Helper.upGrade(level);
             firerate = Mathf.Clamp(firerate, minFirerate, firerate);
 
             reloadTime -= reloadTimeUp * Helper.upGrade(level);
@@ -69,6 +69,7 @@ public class WeaponStats : Stats
 
             Save();
             OnSucces?.Invoke();
+            return;
         }
         OnFailed?.Invoke();
     }

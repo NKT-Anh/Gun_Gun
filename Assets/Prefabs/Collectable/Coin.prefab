@@ -8,6 +8,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -64,10 +88,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_TagString
+      value: Collectable
+      objectReference: {fileID: 0}
     - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: b3f31a4f54300ad4f9ea19167c70b4d7, type: 3}
+      objectReference: {fileID: -3338749442709606003, guid: 93978dcbff65c754c82f146ed36c1c45, type: 3}
     - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_SortingLayer
       value: -1
@@ -90,6 +118,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4556931424134687519}
+    - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6535202893932837510}
     - targetCorrespondingSourceObject: {fileID: 8142944932889791031, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1892953917410219706}
@@ -187,3 +218,19 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.13
+--- !u!114 &6535202893932837510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5754735079894601237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 701ea62a9ba17634f918381a1e30f346, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_minBonus: 1
+  m_maxBonus: 2
+  m_lineTime: 10
+  m_spawnForce: 80

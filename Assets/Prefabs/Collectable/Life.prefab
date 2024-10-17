@@ -8,6 +8,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8978757129309139006, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: flashColor.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 629879682538384378, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -64,10 +80,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      propertyPath: m_TagString
+      value: Collectable
+      objectReference: {fileID: 0}
     - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4b8f66233906db049b822f7c08ac9e67, type: 3}
+      objectReference: {fileID: 4606908045521496030, guid: 2b8558b645a07d74582677fd0bf9dfa9, type: 3}
     - target: {fileID: 8709802349918057737, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       propertyPath: m_SortingLayer
       value: -1
@@ -93,6 +113,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2764991711040306875}
+    - targetCorrespondingSourceObject: {fileID: 1769981648251494827, guid: 617b519aad86123459ff1fabdd515585, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4213379069959014121}
     - targetCorrespondingSourceObject: {fileID: 8142944932889791031, guid: 617b519aad86123459ff1fabdd515585, type: 3}
       insertIndex: -1
       addedObject: {fileID: 401763783464064953}
@@ -242,3 +265,19 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
+--- !u!114 &4213379069959014121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5754735079894601237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0677930a412debf4594675c250c6cf03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_minBonus: 1
+  m_maxBonus: 1
+  m_lineTime: 10
+  m_spawnForce: 80
